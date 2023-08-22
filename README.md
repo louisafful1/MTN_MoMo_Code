@@ -23,4 +23,4 @@ The project consists of a simple JavaScript script that simulates the interactio
 Please note that this project is intended for educational purposes and serves as an example of how nested if statements can be utilized in programming.
 
 ## Author 
-For questions or further information, contact LOUIS AFFUL(mailto:louisafful1@gmail.com).
+For questions or further information, contact LOUIS AFFUL(louisafful1@gmail.com).
